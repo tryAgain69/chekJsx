@@ -1,0 +1,18 @@
+.title.red{
+  text-align: center;
+  color: chocolate ;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.image{
+  display: flex;
+
+  justify-content: space-between;
+}
+.picPub{
+  height: 300px;
+  width: 280px;
+}
+.picSrc{
+  width: 450px;
+}
